@@ -10,5 +10,7 @@ supports         "debian"
 
 depends          "t3-base",    "~> 0.2.0"
 
+depends          "solr",       "~> 0.2.0"
+
 depends          "tomcat",     "= 0.12.0"
 depends          "ark",        "= 0.4.0"
