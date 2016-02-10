@@ -4,7 +4,7 @@ maintainer_email "steffen.gebert@typo3.org"
 license          "Apache2"
 description      "Installs/Configures site-solrtypo3org"
 long_description "Installs/Configures site-solrtypo3org, the SOLR server for typo3.org"
-version          "1.0.1"
+version          "1.0.2"
 
 supports         "debian"
 
